@@ -1,0 +1,5 @@
+date,miles,purpose,from_to,round_trip,rate_usd,amount_usd,notes
+2026-07-14,42,Client kickoff,Home→Brightleaf HQ→Home,yes,0.70,29.40,placeholder rate
+2026-08-02,18,Supply run for shoot,Home→Store→Home,yes,0.70,12.60,
+2026-09-09,86,Conference day trip,Home→Indy venue→Home,yes,0.70,60.20,
+2026-09-15,154,Multi-stop client,Home→A→B→Home,yes,0.70,107.80,

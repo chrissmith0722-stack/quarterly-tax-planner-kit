@@ -1,0 +1,4 @@
+tax_year,quarter,due_date,federal_paid_usd,state_paid_usd,confirmation_id,paid_date,notes
+2026,Q1,2026-04-15,1400.00,200.00,FED-SAMPLE-001,2026-04-14,sample
+2026,Q2,2026-06-15,1400.00,200.00,FED-SAMPLE-002,2026-06-13,sample
+2026,Q3,2026-09-15,0.00,0.00,,,"not yet paid — planner will suggest"

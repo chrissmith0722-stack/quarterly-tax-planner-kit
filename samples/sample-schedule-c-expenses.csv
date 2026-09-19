@@ -1,0 +1,24 @@
+period,schedule_c_label,amount_usd,cashflow_kit_category,notes
+2026-Q1,Advertising,120.00,Marketing,boosts
+2026-Q1,Office expense,85.00,Software,Notion/Adobe share
+2026-Q1,Utilities,90.00,Home office,alloc. estimate
+2026-Q1,Legal and professional services,0.00,Professional,none yet
+2026-Q1,Supplies,40.00,Supplies,
+2026-Q1,Travel,0.00,Travel,
+2026-Q1,Deductible meals,35.00,Meals,50% rule — confirm with CPA
+2026-Q1,Other expenses,25.00,Other,bank fees
+2026-Q2,Advertising,200.00,Marketing,
+2026-Q2,Office expense,95.00,Software,
+2026-Q2,Utilities,90.00,Home office,
+2026-Q2,Contract labor,400.00,Contractors,VA assist
+2026-Q2,Supplies,55.00,Supplies,
+2026-Q2,Travel,180.00,Travel,client visit
+2026-Q2,Deductible meals,60.00,Meals,
+2026-Q2,Other expenses,30.00,Other,
+2026-Q3,Advertising,150.00,Marketing,
+2026-Q3,Office expense,110.00,Software,
+2026-Q3,Utilities,95.00,Home office,
+2026-Q3,Supplies,40.00,Supplies,
+2026-Q3,Car and truck (mileage),210.00,Mileage,from mileage log × rate
+2026-Q3,Deductible meals,45.00,Meals,
+2026-Q3,Other expenses,28.00,Other,

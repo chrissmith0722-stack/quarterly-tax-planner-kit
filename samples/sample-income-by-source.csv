@@ -1,0 +1,9 @@
+period,source_type,source_name,gross_usd,fees_usd,net_usd,notes
+2026-Q1,client,Acme retainers,12000.00,360.00,11640.00,from Cashflow Kit / books
+2026-Q1,platform,Gumroad products,420.00,48.00,372.00,
+2026-Q1,platform,Stripe checkout,890.00,28.00,862.00,
+2026-Q2,client,Acme + Brightleaf,15500.00,465.00,15035.00,
+2026-Q2,platform,Gumroad products,610.00,70.00,540.00,
+2026-Q3,client,Project work,9800.00,294.00,9506.00,
+2026-Q3,platform,Gumroad + Stripe products,1340.00,95.00,1245.00,
+2026-Q3,other,Speaking honorarium,500.00,0.00,500.00,

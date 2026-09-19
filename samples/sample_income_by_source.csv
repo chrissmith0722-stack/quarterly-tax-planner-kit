@@ -1,0 +1,13 @@
+date,source_name,source_type,gross_amount,fees_already_deducted,net_amount,quarter,notes
+2026-01-15,Acme Co,client_1099,4500.00,0.00,4500.00,2026-Q1,Jan invoice
+2026-01-28,Gumroad,product_sales,320.00,48.00,272.00,2026-Q1,Jan creator sales net
+2026-02-12,Bright Studio,client_1099,2800.00,0.00,2800.00,2026-Q1,
+2026-02-20,Stripe Payment Links,product_sales,199.00,6.07,192.93,2026-Q1,
+2026-03-05,Acme Co,client_1099,4500.00,0.00,4500.00,2026-Q1,Mar retainer
+2026-03-22,Gumroad,product_sales,510.00,76.50,433.50,2026-Q1,
+2026-04-10,Northwind LLC,client_1099,6200.00,0.00,6200.00,2026-Q2,Brand sprint
+2026-04-18,Stripe Invoices,client_1099,320.00,9.58,310.42,2026-Q2,
+2026-05-02,Gumroad,product_sales,280.00,42.00,238.00,2026-Q2,
+2026-05-25,Bright Studio,client_1099,2800.00,0.00,2800.00,2026-Q2,
+2026-06-14,Northwind LLC,client_1099,3100.00,0.00,3100.00,2026-Q2,Phase 2 deposit
+2026-06-28,Stripe Payment Links,product_sales,640.00,18.86,621.14,2026-Q2,

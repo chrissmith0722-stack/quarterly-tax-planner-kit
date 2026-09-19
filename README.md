@@ -1,36 +1,18 @@
-# Quarterly Tax Planner Kit
+# 2026 Freelancer Quarterly Tax & Estimated-Payment Planner
 
-**Public preview repo** for the 2026 freelancer quarterly tax & estimated-payment planner.  
-**Commercial zip (full buyer package):** `quarterly-tax-dashboard.zip` in the publish-ready pack.  
-**Price target:** **$27** (range **$27–$34**) · Channels: **Gumroad** (+ Etsy optional)
-
-SE-aware quarterly estimates + tax reserve lockbox. Import totals from Cashflow Kit (or any books) — this kit does **not** rebuild monthly P&L / invoice aging sheets.
+**Price target:** $27 · Gumroad + Etsy  
+**SKU role:** Tax-estimate **premium** beside Solo Freelancer Cashflow Kit ($19).
 
 | Product | Job |
 |---------|-----|
-| Cashflow Kit | Monthly income · expenses · invoices · simple reserve % |
+| Cashflow Kit (Fag / shipping) | Monthly income · expenses · invoices · simple reserve % |
 | **This kit** | Quarterly SE-aware estimate · payment split · mileage · Schedule C–style rollup · tax lockbox · CPA handoff |
 
----
-
-## Buy / sell this
-
-### Buyers
-- **Paid package** ships as `quarterly-tax-dashboard.zip` once the Gumroad listing is live (link TBD after publish).
-- This GitHub repo is the **open preview** (schemas, samples, scripts, checklists, Sheets formulas) under MIT so you can evaluate fit before buying the packaged listing + planner bundle.
-
-### Sellers (Chris — income path)
-1. Upload **`/workspace/outputs/publish-ready/quarterly-tax-dashboard.zip`** to Gumroad as the downloadable file.
-2. Paste title/description from `LISTING.md` in this repo (also inside the zip).
-3. Set price **$27** (stretch **$34** after reviews / bundle with Cashflow).
-4. Publish → optionally list on Etsy later.  
-**Blocked without Chris:** Gumroad (and Etsy) login + publish click. Agents cannot publish marketplaces without that login. Stripe Price IDs for owned-checkout are also Chris-only.
-
-**Companion SKUs (same publish-ready folder):** `cashflow-kit.zip` ($19 first-dollar), `seller-ledger.zip` ($19), `invoice-pack.zip` ($12).
+**Does not** rebuild monthly P&L / invoice aging sheets. Import totals from Cashflow Kit (or any books).
 
 ---
 
-## What you get
+## What the buyer gets
 
 ### Docs
 | File | Role |
@@ -85,7 +67,3 @@ python3 tax_reserve_lockbox.py \
 
 **Not a CPA service. Not legal or tax advice. Not affiliated with the IRS.**  
 Simplified planning models only. Confirm with a licensed professional before paying or filing.
-
-## License
-
-MIT

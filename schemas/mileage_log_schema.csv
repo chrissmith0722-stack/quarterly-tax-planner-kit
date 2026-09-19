@@ -1,0 +1,2 @@
+# Business mileage log. Enter the IRS standard mileage rate YOU use for the year.
+date,from_location,to_location,miles,purpose,client_or_project,round_trip,rate_per_mile,amount,quarter,notes

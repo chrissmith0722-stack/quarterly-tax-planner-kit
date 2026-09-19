@@ -1,0 +1,3 @@
+# Record of federal/state estimated tax payments (1040-ES style tracking).
+payment_date,period_label,federal_amount,state_amount,total_amount,confirmation_number,paid_from_lockbox,notes
+# period_label examples: 2026-Q1 | 2026-Q2 | 2026-Q3 | 2026-Q4

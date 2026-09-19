@@ -1,0 +1,12 @@
+key,value,notes
+filing_status,single,single|married_filing_jointly|hoh (labels only — for your notes)
+se_tax_rate,0.153,Combined employee+employer OASDI/Medicare proxy — confirm current law
+se_deduction_rate,0.9235,Net earnings × this ≈ SE tax base (classic simplification)
+ordinary_marginal_rate,0.22,YOUR estimated marginal ordinary rate — ask CPA
+additional_medicare_rate,0.0,Set 0.009 if over threshold — ask CPA
+state_effective_rate,0.05,State estimate; 0 if no state income tax
+prior_year_total_tax,0,For safe-harbor thinking (optional)
+ytd_federal_estimated_paid,0,Sum of federal estimates already paid this year
+ytd_state_estimated_paid,0,Sum of state estimates already paid
+irs_mileage_rate_usd,0.70,PLACEHOLDER — replace with current IRS standard mileage rate you use
+tax_year,2026,

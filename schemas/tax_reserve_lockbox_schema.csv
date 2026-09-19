@@ -1,0 +1,4 @@
+# Tax reserve "lockbox" ledger — money earmarked for estimated taxes.
+date,direction,amount,balance_after,quarter_applied,method,reference,notes
+# direction: deposit | withdrawal_payment | adjustment
+# method: transfer | estimated_payment | refund_reclass

@@ -1,0 +1,4 @@
+# Tax-oriented income log (by source / 1099 flavor). Not a monthly cashflow sheet.
+# Use for quarterly estimate inputs — one row per payment or monthly rollup.
+date,source_name,source_type,gross_amount,fees_already_deducted,net_amount,quarter,notes
+# source_type: client_1099 | platform_1099k | w2_side | product_sales | other

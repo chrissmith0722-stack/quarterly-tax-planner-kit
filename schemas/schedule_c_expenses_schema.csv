@@ -1,0 +1,6 @@
+# Schedule C–style expense organizer (labels for planning — not a filed return).
+date,vendor,category_code,category_label,amount,business_pct,deductible_amount,quarter,receipt_ref,notes
+# category_code examples: advertising, car_truck, commissions, contract_labor, depletion,
+#   depreciation, insurance, interest_mortgage, interest_other, legal_professional,
+#   office, pension, rent_lease_vehicles, rent_lease_other, repairs, supplies,
+#   taxes_licenses, travel, meals, utilities, wages, other, home_office

@@ -1,0 +1,12 @@
+key,value,notes
+filing_status,single,example only
+se_tax_rate,0.153,confirm current law with CPA
+se_deduction_rate,0.9235,classic simplification
+ordinary_marginal_rate,0.22,EXAMPLE — replace with your estimate
+additional_medicare_rate,0.0,
+state_effective_rate,0.032,example IN-ish placeholder — verify
+prior_year_total_tax,0,optional safe-harbor reference
+ytd_federal_estimated_paid,2800.00,Q1+Q2 already paid in sample story
+ytd_state_estimated_paid,400.00,
+irs_mileage_rate_usd,0.70,PLACEHOLDER — update to current IRS rate
+tax_year,2026,

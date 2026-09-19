@@ -1,0 +1,7 @@
+date,from_location,to_location,miles,purpose,client_or_project,round_trip,rate_per_mile,amount,quarter,notes
+2026-01-09,Home office,Acme HQ,18.0,Client meeting,Acme Co,true,0.70,25.20,2026-Q1,2026 planning rate — verify IRS rate
+2026-02-14,Home office,Airport,32.0,Travel to client site,Bright Studio,true,0.70,44.80,2026-Q1,
+2026-03-03,Home office,Coworking,6.5,Office day,Internal,true,0.70,9.10,2026-Q1,
+2026-04-11,Home office,Northwind office,22.0,Kickoff,Northwind LLC,true,0.70,30.80,2026-Q2,
+2026-05-20,Home office,Print shop,8.0,Supply run,Internal,true,0.70,11.20,2026-Q2,
+2026-06-07,Home office,Northwind office,22.0,Review meeting,Northwind LLC,true,0.70,30.80,2026-Q2,

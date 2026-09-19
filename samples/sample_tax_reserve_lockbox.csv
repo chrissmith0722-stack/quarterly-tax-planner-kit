@@ -1,0 +1,9 @@
+date,direction,amount,balance_after,quarter_applied,method,reference,notes
+2026-01-31,deposit,1200.00,1200.00,2026-Q1,transfer,ACH-001,Jan set-aside 30% rule of thumb
+2026-02-28,deposit,950.00,2150.00,2026-Q1,transfer,ACH-002,
+2026-03-31,deposit,1100.00,3250.00,2026-Q1,transfer,ACH-003,
+2026-04-15,withdrawal_payment,2800.00,450.00,2026-Q1,estimated_payment,IRS-1040ES-Q1,Federal Q1 estimate
+2026-04-15,withdrawal_payment,400.00,50.00,2026-Q1,estimated_payment,STATE-Q1,State Q1 estimate
+2026-04-30,deposit,1800.00,1850.00,2026-Q2,transfer,ACH-004,
+2026-05-31,deposit,1600.00,3450.00,2026-Q2,transfer,ACH-005,
+2026-06-30,deposit,1700.00,5150.00,2026-Q2,transfer,ACH-006,

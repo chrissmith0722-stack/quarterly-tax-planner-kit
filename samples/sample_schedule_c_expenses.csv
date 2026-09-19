@@ -1,0 +1,13 @@
+date,vendor,category_code,category_label,amount,business_pct,deductible_amount,quarter,receipt_ref,notes
+2026-01-05,Adobe,supplies,Software & subscriptions,59.99,100,59.99,2026-Q1,R-1001,Creative Cloud
+2026-01-12,WeWork,office,Coworking / office,220.00,100,220.00,2026-Q1,R-1002,
+2026-02-01,State Farm,insurance,Business insurance,85.00,100,85.00,2026-Q1,R-1010,Liability
+2026-02-14,Delta,travel,Travel,312.40,100,312.40,2026-Q1,R-1015,Client kickoff
+2026-02-14,Airport Cafe,meals,Meals,48.00,50,24.00,2026-Q1,R-1016,50% meals rule planning
+2026-03-03,Staples,office,Office supplies,67.20,100,67.20,2026-Q1,R-1022,
+2026-03-20,CPA Firm,legal_professional,Legal & professional,350.00,100,350.00,2026-Q1,R-1030,Q1 consult
+2026-04-02,Google Workspace,office,Software & subscriptions,14.40,100,14.40,2026-Q2,R-1101,
+2026-04-15,Fiverr VA,contract_labor,Contract labor,400.00,100,400.00,2026-Q2,R-1110,Ops help
+2026-05-08,Verizon,utilities,Phone / internet,90.00,70,63.00,2026-Q2,R-1120,70% business use
+2026-05-19,Home depot,repairs,Repairs & maintenance,55.00,100,55.00,2026-Q2,R-1125,Studio shelf
+2026-06-01,Facebook Ads,advertising,Advertising,150.00,100,150.00,2026-Q2,R-1130,

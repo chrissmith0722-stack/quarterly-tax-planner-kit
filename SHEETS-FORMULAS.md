@@ -47,7 +47,7 @@ NextQuarter = FedRemain / RemainingQuarters   // put RemainingQuarters in a yell
 ```
 MilesAmount = Miles * Rate   // rate from Inputs irs_mileage_rate_usd — update yearly
 ```
-Roll the year’s mileage total into Expenses as `Car and truck (mileage)` **or** keep separate for your CPA (don’t double-count).
+Roll the year's mileage total into Expenses as `Car and truck (mileage)` **or** keep separate for your CPA (don't double-count).
 
 ## Relationship to Cashflow Kit
-Copy quarterly **totals** from Cashflow Kit Dashboard / Income / Expenses into this workbook’s Income & Expenses tabs. Do not rebuild invoice aging here.
+Copy quarterly **totals** from Cashflow Kit Dashboard / Income / Expenses into this workbook's Income & Expenses tabs. Do not rebuild invoice aging here.
